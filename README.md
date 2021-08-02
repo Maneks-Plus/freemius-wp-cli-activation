@@ -1,0 +1,1 @@
+# freemius-wp-cli-activation
